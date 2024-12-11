@@ -32,8 +32,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`PikVik Wiki ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`Wiki`}
+      description="PikVik.Net Knowledge Base">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

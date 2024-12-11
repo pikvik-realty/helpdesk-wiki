@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'База знаний',
+  title: 'База знаний PikVik.Net',
   tagline: 'Инструкции и мануалы',
   favicon: 'img/favicon.ico',
 
