@@ -75,7 +75,7 @@ const config = {
             label: 'Основы',
           },
           {
-            href: 'https://github.com/pikvik/wiki',
+            href: 'https://github.com/pikvik-realty/helpdesk-wiki',
             label: 'GitHub',
             position: 'right',
           },
@@ -119,7 +119,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/pikvik/wiki',
+                href: 'https://github.com/pikvik-realty/helpdesk-wiki/',
               },
             ],
           },
