@@ -61,5 +61,3 @@ Thank you for your interest in contributing! You can make changes directly throu
 5. Click **Create Pull Request**.
 
 *That's it! Once your PR is reviewed and approved, it will be merged into the main repository. Thank you for contributing!* 🎉
-
-
